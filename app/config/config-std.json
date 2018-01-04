@@ -1,0 +1,9 @@
+{
+    "db": {
+        "ip": "localhost",
+        "port" : 3306,
+        "dbname": "discodb",
+        "user" : "root",
+        "pwd" : ""
+    }
+}

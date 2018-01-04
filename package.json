@@ -1,0 +1,35 @@
+{
+  "name": "passeidireto",
+  "version": "1.0.0",
+  "description": "Desafio PD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanoelflima/desafiopd.git"
+  },
+  "author": "[EFL] Emanoel de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanoelflima/desafiopd/issues"
+  },
+  "homepage": "https://github.com/emanoelflima/desafiopd#readme",
+  "dependencies": {
+    "angular-material": "^1.1.5",
+    "cookie": "^0.3.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "none": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "server": "^1.0.13",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^1.14.6"
+  }
+}
